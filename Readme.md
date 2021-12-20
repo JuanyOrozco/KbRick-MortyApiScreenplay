@@ -8,7 +8,7 @@ The principal idea of the API testing is to get the expected answers and notice 
 
 ## Installation
 
-Clone the project from [GitHub](https://github.com/JuanyOrozco/KbRick-MortyApiScreenplay).
+Clone the project from [GitHub](https://github.com/JuanyOrozco/KbRick-MortyApiScreenplay/tree/master).
 
 ## Execution
 
